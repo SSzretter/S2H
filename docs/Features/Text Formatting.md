@@ -8,9 +8,6 @@ You can have lists like this
 
 Or checklist lists to
 
-- [ ] ==Get==
-- [ ] things
-- [ ] ~~done~~
 
 Also, get highlights and strikethroughs as above (similar to Obsidian).
 
