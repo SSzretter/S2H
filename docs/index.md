@@ -1,3 +1,3 @@
 # S2H
 
-coming soon
+This is the home page!
