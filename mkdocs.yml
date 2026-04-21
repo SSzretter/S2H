@@ -1,4 +1,5 @@
-site_name: obsidian-mkdocs template
+site_name: S2H Web
+site_url: https://sszretter.github.io/S2H/
 
 theme:
     name: 'material'

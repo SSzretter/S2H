@@ -10,6 +10,7 @@ Finding your GitHub Pages URL / Publishing Your Site : Go to the repository, set
  https://sszretter.github.io/S2H/
 MY REPOSITORY FOR PUBLIC WEB : https://github.com/SSzretter/S2H
 
+blog pages require properties (?) or the deployment will fail
 
 The [[mkdocs.yml]] page is used to customize the theme, add plugins, utilize markdown extensions and add extra javascript content.
 
